@@ -1,1 +1,1 @@
-# Implementint a Reduce Side Join
+# Implementing a Reduce Side Join
